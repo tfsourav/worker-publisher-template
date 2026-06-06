@@ -20,7 +20,7 @@ You can modify this and use it to deploy static sites or full stack applications
 
 ## Setup
 
-After you click "Deploy to Cloudflare", you'll be prompted for:
+After you click "Deploy to Cloudflare", you will be prompted for:
 
 - `CLOUDFLARE_ACCOUNT_ID` - Your Cloudflare account ID
 - `CLOUDFLARE_API_TOKEN` - Your Cloudflare API token with Workers:Edit permission
